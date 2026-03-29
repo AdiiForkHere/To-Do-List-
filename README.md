@@ -10,7 +10,7 @@ A simple and interactive **To-Do List Application** built using **HTML, CSS, and
 - ❌ Delete Tasks  
 - ✔️ Mark Tasks as Completed  
 - 💾 Save Tasks using Local Storage  
-- 🔄 Persistent Data (tasks remain after refresh)  
+- 🔄 Persistent Data (tasks remain after refresh) 
 - 🎨 Clean and User-Friendly Interface  
 - 📱 Fully Responsive Design  
 
